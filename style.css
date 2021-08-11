@@ -1,0 +1,19 @@
+body{
+background-color: rgb(228, 185, 161);
+text-align: center;
+}
+
+.head{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin:auto;
+
+}
+
+.die{
+    text-align: center;
+display: inline-block;
+padding: 4rem;
+
+}
+
+
